@@ -1389,7 +1389,7 @@ If a spell or an ability of a nonartifact permanent would cause enchanted player
 	<card>
 		<name>Voice of the Smitten</name>
 		<text>Enchant player
-At he beginning of enchanted player's end step, each untapped creature they control deals 1 damage to target permanent they control.</text>
+At he beginning of enchanted player's end step, each untapped creature they control deals 1 damage to target creature or planeswalker they control.</text>
 		<prop>
 			<layout>normal</layout>
 			<side>front</side>
