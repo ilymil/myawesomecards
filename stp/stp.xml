@@ -1,0 +1,1552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+	<set>
+		<name>STP</name>
+		<longname>Slay the Princess</longname>
+		<settype>Custom</settype>
+		<releasedate>2024-09-26</releasedate>
+	</set>
+  </sets>
+  
+  <cards>
+	<card>
+		<name>The Princess, Bold</name>
+		<text>Discard a card: The Princess, Bold gains indestructible until end of turn. Tap it.
+{1}{R}{G}, {T}: The Princess fights another target creature.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Legendary Creature — Demon Noble</type>
+			<maintype>Creature</maintype>
+			<manacost>2RG</manacost>
+			<cmc>4</cmc>
+			<colors>RG</colors>
+			<pt>4/2</pt>
+		</prop>
+		<set rarity="rare" num="1" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/princesses/The%20Princess%2C%20Bold.png">STP</set>
+		<tablerow>2</tablerow>
+	</card>
+	
+	<card>
+		<name>The Princess, Overwhelming</name>
+		<text>Ward-Sacrifice a creature.
+{1}{W}{B}, {T}: Target player sacrifices a creature or enchantment. If a creature is sacrificed this way, you lose 1 life and draw a card. If an enchantment is sacrificed this way, put a +1/+1 counter on target creature.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Legendary Creature — Angel Noble</type>
+			<maintype>Creature</maintype>
+			<manacost>3WB</manacost>
+			<cmc>5</cmc>
+			<colors>WB</colors>
+			<pt>2/5</pt>
+		</prop>
+		<set rarity="rare" num="2" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/princesses/The%20Princess%2C%20Overwhelming.png">STP</set>
+		<tablerow>2</tablerow>
+	</card>
+	
+	<card>
+		<name>The Princess, Yearning</name>
+		<text>Flying
+At the beginning of each opponent's upkeep, choose target creature they control, then that opponent may draw a card. If they do, that creature can't attack this turn and you draw a card. If they don't, put a +1/+1 counter on target creature.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Legendary Creature — Spirit Noble</type>
+			<maintype>Creature</maintype>
+			<manacost>2GW</manacost>
+			<cmc>4</cmc>
+			<colors>GW</colors>
+			<pt>2/4</pt>
+		</prop>
+		<set rarity="rare" num="3" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/princesses/The%20Princess%2C%20Yearning.png">STP</set>
+		<tablerow>2</tablerow>
+	</card>
+	
+	<card>
+		<name>The Princess, Tender</name>
+		<text>Creatures your opponents control have "This creature doesn't untap during your untap step," and "At the beginning of your upkeep, you may mill two cards. If you do, untap this creature."
+{T}: Destroy target tapped creature unless its controller mills seven cards.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Legendary Creature — Nightmare Noble</type>
+			<maintype>Creature</maintype>
+			<manacost>1UB</manacost>
+			<cmc>3</cmc>
+			<colors>UB</colors>
+			<pt>3/2</pt>
+		</prop>
+		<set rarity="rare" num="4" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/princesses/The%20Princess%2C%20Tender.png">STP</set>
+		<tablerow>2</tablerow>
+	</card>
+	
+	<card>
+		<name>The Princess, Piercing</name>
+		<text>Double strike, haste
+Whenever an opponent casts their second spell each turn, put a +1/+1 counter on The Princess, Piercing. It can't be blocked by that opponent until the end of your next turn.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Legendary Artifact Creature — Noble</type>
+			<maintype>Creature</maintype>
+			<manacost>1UR</manacost>
+			<cmc>3</cmc>
+			<colors>UR</colors>
+			<pt>1/1</pt>
+		</prop>
+		<set rarity="rare" num="5" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/princesses/The%20Princess%2C%20Piercing.png">STP</set>
+		<tablerow>2</tablerow>
+	</card>
+	
+	<card>
+		<name>The Princess, Cunning</name>
+		<text>The Princess, Cunning must be blocked if able.
+Whenever The Princess deals excess damage to a creature, put X +1/+1 counters on The Princess and you mill X cards, where X is that excess damage.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Legendary Creature — Beast Noble</type>
+			<maintype>Creature</maintype>
+			<manacost>3BG</manacost>
+			<cmc>5</cmc>
+			<colors>BG</colors>
+			<pt>4/3</pt>
+		</prop>
+		<set rarity="rare" num="6" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/princesses/The%20Princess%2C%20Cunning.png">STP</set>
+		<tablerow>2</tablerow>
+	</card>
+	
+	<card>
+		<name>The Princess, Righteous</name>
+		<text>Haste
+If The Princess, Righteous would deal damage to an opponent, you may have it deal that much damage to target creature that opponent controls instead.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Legendary Creature — Cat Noble</type>
+			<maintype>Creature</maintype>
+			<manacost>1BR</manacost>
+			<cmc>3</cmc>
+			<colors>BR</colors>
+			<pt>3/3</pt>
+		</prop>
+		<set rarity="rare" num="7" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/princesses/The%20Princess%2C%20Righteous.png">STP</set>
+		<tablerow>2</tablerow>
+	</card>
+	
+	<card>
+		<name>The Princess, Vibrant</name>
+		<text>Disguise {G}{W}
+Whenever a face down permanent you control enters, create a token that's a copy of it.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Legendary Creature — Noble</type>
+			<maintype>Creature</maintype>
+			<manacost>1GU</manacost>
+			<cmc>3</cmc>
+			<colors>GU</colors>
+			<pt>2/2</pt>
+		</prop>
+		<set rarity="rare" num="8" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/princesses/The%20Princess%2C%20Vibrant.png">STP</set>
+		<related>A Mysterious Creature</related>
+		<tablerow>2</tablerow>
+	</card>
+	
+	<card>
+		<name>The Princess, Patient</name>
+		<text>Defender
+Whenever The Princess, Patient deals damage to a permanent, tap that permanent and put X stun counters on it, where X is the damage dealt.
+{1}{U}: Goad target creature. Activate only as a sorcery and only once each turn.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Legendary Creature — Human Noble</type>
+			<maintype>Creature</maintype>
+			<manacost>WU</manacost>
+			<cmc>2</cmc>
+			<colors>WU</colors>
+			<pt>2/4</pt>
+		</prop>
+		<set rarity="rare" num="9" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/princesses/The%20Princess%2C%20Patient.png">STP</set>
+		<tablerow>2</tablerow>
+	</card>
+	
+	<card>
+		<name>The Princess, Gentle</name>
+		<text>{1}{R}{W}, {T}: Return target creature card with mana value 2 or less from your graveyard to the battlefield. Create a Young Hero role token attached to it. (Enchanted creature has "Whenever this creature attacks, if its toughness is 3 or less, put a +1/+1 counter on it." If you put another role on the creature later, put this one into the graveyard.)</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Legendary Creature — Human Noble</type>
+			<maintype>Creature</maintype>
+			<manacost>1RW</manacost>
+			<cmc>3</cmc>
+			<colors>RW</colors>
+			<pt>0/1</pt>
+		</prop>
+		<set rarity="rare" num="10" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/princesses/The%20Princess%2C%20Gentle.png">STP</set>
+		<related>Royal // Young Hero</related>
+		<tablerow>2</tablerow>
+	</card>
+	
+	
+	
+	<card>
+		<name>The Princess, Burning</name>
+		<text>Trample
+Enrage — Whenever The Princess, Burning is dealt damage, tap or untap target creature.
+{R}{G}, {T}: The Princess fights another target tapped creature.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Legendary Creature — Dragon Noble</type>
+			<maintype>Creature</maintype>
+			<manacost>2GUR</manacost>
+			<cmc>5</cmc>
+			<colors>GUR</colors>
+			<pt>6/6</pt>
+		</prop>
+		<set rarity="rare" num="11" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/princesses/The%20Princess%2C%20Burning.png">STP</set>
+		<tablerow>2</tablerow>
+	</card>	
+	
+	<card>
+		<name>The Princess, Divine</name>
+		<text>Indestructible
+The Princess, Divine gets -1/-1 for each card exiled with it.
+{T}, Exile a permanent you control: Gain 3 life and draw a card. If there are 7 or more cards exiled with The Princess, destroy each permanent you don't control.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Legendary Creature — God Noble</type>
+			<maintype>Creature</maintype>
+			<manacost>3RWB</manacost>
+			<cmc>6</cmc>
+			<colors>RWB</colors>
+			<pt>7/7</pt>
+		</prop>
+		<set rarity="rare" num="12" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/princesses/The%20Princess%2C%20Divine.png">STP</set>
+		<tablerow>2</tablerow>
+	</card>
+	
+	<card>
+		<name>The Princess, Empathetic</name>
+		<text>Each creature you control with a +1/+1 counter on it has flying if you control another creature with a +1/+1 counter on it that has flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, reach, trample, and vigilance.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Legendary Creature — Human Noble</type>
+			<maintype>Creature</maintype>
+			<manacost>2WBG</manacost>
+			<cmc>5</cmc>
+			<colors>WBG</colors>
+			<pt>2/2</pt>
+		</prop>
+		<set rarity="rare" num="13" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/princesses/The%20Princess%2C%20Empathetic.png">STP</set>
+		<tablerow>2</tablerow>
+	</card>
+	
+	<card>
+		<name>The Princess, Wise</name>
+		<text>Flying, menace
+Whenever an opponent mills their tenth card each turn, you may pay {1}{R}. If you do, there is an additional combat phase after your next main phase. At the beginning of that combat, untap all creatures you control.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Legendary Creature — Nightmare Noble</type>
+			<maintype>Creature</maintype>
+			<manacost>3UBR</manacost>
+			<cmc>6</cmc>
+			<colors>UBR</colors>
+			<pt>4/4</pt>
+		</prop>
+		<set rarity="rare" num="14" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/princesses/The%20Princess%2C%20Wise.png">STP</set>
+		<tablerow>2</tablerow>
+	</card>
+	
+	<card>
+		<name>The Princess, Ravenous</name>
+		<text>Flying, lifelink, trample
+Whenever The Princess, Ravenous enters or attacks, you may exile a creature card from your graveyard. When you do, choose a kind of counter from among flying, lifelink, trample, and +1/+1. Put a counter of that kind on target creature you control.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Legendary Creature — Beast Noble</type>
+			<maintype>Creature</maintype>
+			<manacost>1BGU</manacost>
+			<cmc>4</cmc>
+			<colors>BGU</colors>
+			<pt>5/4</pt>
+		</prop>
+		<set rarity="rare" num="15" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/princesses/The%20Princess%2C%20Ravenous.png">STP</set>
+		<tablerow>2</tablerow>
+	</card>
+	
+	<card>
+		<name>The Princess, Cautious</name>
+		<text>Whenever a player commits a crime for the first time each turn, that player creates a 0/1 green Plant creature token. (Targeting opponents, anything they control, and/or cards in their graveyard is a crime.)
+{R}, {T}, Put a -1/-1 counter on The Princess, Cautious: Each Plant creature gets +2/+1 until the beginning of your next turn.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Legendary Creature — Cat Noble</type>
+			<maintype>Creature</maintype>
+			<manacost>1BRG</manacost>
+			<cmc>4</cmc>
+			<colors>BRG</colors>
+			<pt>4/4</pt>
+		</prop>
+		<set rarity="rare" num="16" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/princesses/The%20Princess%2C%20Cautious.png">STP</set>
+		<related>Plant Token</related>
+		<tablerow>2</tablerow>
+	</card>
+	
+	<card>
+		<name>The Princess, Watchful</name>
+		<text>When The Princess, Watchful enters, create The Princess's Body, a legendary 3/3 black Noble creature token with deathtouch.
+Nontoken creatures can't attack unless their controller discards a card for each of those creatures.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Legendary Creature — Head Noble</type>
+			<maintype>Creature</maintype>
+			<manacost>3WUB</manacost>
+			<cmc>6</cmc>
+			<colors>WUB</colors>
+			<pt>0/1</pt>
+		</prop>
+		<set rarity="rare" num="17" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/princesses/The%20Princess%2C%20Watchful.png">STP</set>
+		<related>The Princess's Body</related>
+		<tablerow>2</tablerow>
+	</card>	
+	
+	<card>
+		<name>The Princess, Honest</name>
+		<text>Celebration - At the beginning of your end step, if two or more nonlend permanents entered the battlefield under your control this turn, create a Clue token and a Food token.
+{1}, Sacrifice an artifact token: Creatures you control get +1/+1 until end of turn.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Legendary Creature — Human Noble</type>
+			<maintype>Creature</maintype>
+			<manacost>2URW</manacost>
+			<cmc>5</cmc>
+			<colors>URW</colors>
+			<pt>2/2</pt>
+		</prop>
+		<set rarity="rare" num="18" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/princesses/The%20Princess%2C%20Honest.png">STP</set>
+		<related>Clue Token</related>
+		<related>Food Token</related>
+		<tablerow>2</tablerow>
+	</card>	
+	
+	<card>
+		<name>The Princess, Weathered</name>
+		<text>{X}, {T}: Destroy target creature with mana value X. When that creature dies this way, search your library for a creature card with lesser mana value and put it onto the battlefield, then shuffle.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Legendary Creature — Horror Noble</type>
+			<maintype>Creature</maintype>
+			<manacost>1UBRG</manacost>
+			<cmc>5</cmc>
+			<colors>UBRG</colors>
+			<pt>6/4</pt>
+		</prop>
+		<set rarity="mythic" num="19" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/princesses/The%20Princess%2C%20Weathered.png">STP</set>
+		<tablerow>2</tablerow>
+	</card>	
+	
+	<card>
+		<name>The Princess, Driven</name>
+		<text>You may choose not to untap The Princess, Driven during your untap step.
+Whenever a creature you control deals combat damage to its owner, put a +1/+1 counter on that creature and you draw a card.
+{T}: Gain control of target creature for as long as The Princess remains tapped.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Legendary Creature — Wraith Noble</type>
+			<maintype>Creature</maintype>
+			<manacost>GWUB</manacost>
+			<cmc>4</cmc>
+			<colors>GWUB</colors>
+			<pt>3/4</pt>
+		</prop>
+		<set rarity="mythic" num="20" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/princesses/The%20Princess%2C%20Driven.png">STP</set>
+		<tablerow>2</tablerow>
+	</card>	
+	
+	<card>
+		<name>The Princess, Beautiful</name>
+		<text>At the beginning of each opponent's upkeep, you choose one, then that opponent chooses one-
+• Create two Treasure tokens.
+• Put two +1/+1 counters on target creature.
+• Gain 5 life.
+• Scry 2, then draw a card.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Legendary Enchantment Creature — Noble</type>
+			<maintype>Creature</maintype>
+			<manacost>2RGWU</manacost>
+			<cmc>6</cmc>
+			<colors>RGWU</colors>
+			<pt>2/5</pt>
+		</prop>
+		<set rarity="mythic" num="21" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/princesses/The%20Princess%2C%20Beautiful.png">STP</set>
+		<related>Treasure Token</related>
+		<tablerow>2</tablerow>
+	</card>	
+	
+	<card>
+		<name>The Princess, Deep</name>
+		<text>Whenever another creature leaves the battlefield, each opponent mills two cards.
+{X}{U}{B}, {T}: Return up to X target creatures to their owners' hands. Sacrifice The Princess, Deep.</text>
+		<prop>
+			<layout>modal_dfc</layout>
+			<side>front</side>
+			<type>Legendary Creature — Spirit Noble</type>
+			<maintype>Creature</maintype>
+			<manacost>2WU</manacost>
+			<cmc>4</cmc>
+			<colors>WU</colors>
+			<pt>3/4</pt>
+		</prop>
+		<set rarity="mythic" num="22" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/princesses/The%20Princess%2C%20Deep.png">STP</set>
+		<related attach="transform">The Princess, Bright</related>
+		<tablerow>2</tablerow>
+	</card>	
+	
+	<card>
+		<name>The Princess, Bright</name>
+		<text>Whenever another creature enters, The Princess, Bright deals 2 damage to target player. This ability triggers only once each turn.
+{X}{B}{R}, {T}: Return target creature card with mana value X from your graveyard to the battlefield. Sacrifice The Princess.</text>
+		<prop>
+			<layout>modal_dfc</layout>
+			<side>back</side>
+			<type>Legendary Creature — Spirit Noble</type>
+			<maintype>Creature</maintype>
+			<manacost>2RW</manacost>
+			<cmc>4</cmc>
+			<colors>RW</colors>
+			<pt>4/3</pt>
+		</prop>
+		<set rarity="mythic" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/princesses/The%20Princess%2C%20Bright.png">STP</set>
+		<related attach="transform">The Princess, Deep</related>
+		<tablerow>2</tablerow>
+	</card>	
+	
+	
+	
+	<card>
+		<name>The Adversary</name>
+		<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)
+I — Target creature you control fights up to one target creature an opponent controls.
+II — Until end of turn, target creature you control gains "When this creature dies, return it to the battlefield under its owner's control with an additional +1/+1 counter on it." Then that creature fights another target creature.</text>
+		<prop>
+			<layout>saga</layout>
+			<side>front</side>
+			<type>Enchantment — Saga</type>
+			<maintype>Enchantment</maintype>
+			<manacost>1GG</manacost>
+			<cmc>3</cmc>
+			<colors>G</colors>
+		</prop>
+		<set rarity="uncommon" num="23" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/chapters/The%20Adversary.png">STP</set>
+		<tablerow>1</tablerow>
+	</card>	
+	
+	<card>
+		<name>The Tower</name>
+		<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)
+I — Destroy up to one target tapped creature.
+II — Destroy up to one target artifact and one target enchantment. Put a +1/+1 counter on target creature you control for each permanent destroyed this way.</text>
+		<prop>
+			<layout>saga</layout>
+			<side>front</side>
+			<type>Enchantment — Saga</type>
+			<maintype>Enchantment</maintype>
+			<manacost>1WWW</manacost>
+			<cmc>4</cmc>
+			<colors>W</colors>
+		</prop>
+		<set rarity="uncommon" num="24" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/chapters/The%20Tower.png">STP</set>
+		<tablerow>1</tablerow>
+	</card>
+	
+	<card>
+		<name>The Spectre</name>
+		<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)
+I — Create a 1/1 white Spirit creature token with flying.
+II — Until end of turn, creatures you control gain "{T}: You and target opponent each draw a card."</text>
+		<prop>
+			<layout>saga</layout>
+			<side>front</side>
+			<type>Enchantment — Saga</type>
+			<maintype>Enchantment</maintype>
+			<manacost>2W</manacost>
+			<cmc>3</cmc>
+			<colors>W</colors>
+		</prop>
+		<set rarity="uncommon" num="25" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/chapters/The%20Spectre.png">STP</set>
+		<related>Spirit Token</related>
+		<tablerow>1</tablerow>
+	</card>
+	
+
+	
+	<card>
+		<name>The Nightmare</name>
+		<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)
+I — Each player mills three cards.
+II — All creatures get -X/-X until end of turn, where X is the greatest mana value among cards in target player's graveyard.</text>
+		<prop>
+			<layout>saga</layout>
+			<side>front</side>
+			<type>Enchantment — Saga</type>
+			<maintype>Enchantment</maintype>
+			<manacost>2BB</manacost>
+			<cmc>4</cmc>
+			<colors>B</colors>
+		</prop>
+		<set rarity="uncommon" num="26" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/chapters/The%20Nightmare.png">STP</set>
+		<tablerow>1</tablerow>
+	</card>
+	
+	<card>
+		<name>The Razor</name>
+		<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
+I — This Saga deals 2 damage to any target.
+II, III, IV — Choose target creature you control without double strike. If it has first strike, put a double strike counter on it. If it doesn't, put a +1/+1 counter and a first strike counter on it.</text>
+		<prop>
+			<layout>saga</layout>
+			<side>front</side>
+			<type>Enchantment — Saga</type>
+			<maintype>Enchantment</maintype>
+			<manacost>2RR</manacost>
+			<cmc>4</cmc>
+			<colors>R</colors>
+		</prop>
+		<set rarity="uncommon" num="27" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/chapters/The%20Razor.png">STP</set>
+		<tablerow>1</tablerow>
+	</card>
+	
+	<card>
+		<name>The Beast</name>
+		<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)
+I — Put two +1/+1 counters on up to one target creature.
+II — Whenever a creature is dealth excess damage this turn, draw a card.</text>
+		<prop>
+			<layout>saga</layout>
+			<side>front</side>
+			<type>Enchantment — Saga</type>
+			<maintype>Enchantment</maintype>
+			<manacost>2G</manacost>
+			<cmc>3</cmc>
+			<colors>G</colors>
+		</prop>
+		<set rarity="uncommon" num="28" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/chapters/The%20Beast.png">STP</set>
+		<tablerow>1</tablerow>
+	</card>
+	
+	<card>
+		<name>The Witch</name>
+		<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)
+I — Put a -1/-1 counter on up to one target creature.
+II — When you next lose life this turn, each opponent loses that much life.</text>
+		<prop>
+			<layout>saga</layout>
+			<side>front</side>
+			<type>Enchantment — Saga</type>
+			<maintype>Enchantment</maintype>
+			<manacost>1BB</manacost>
+			<cmc>3</cmc>
+			<colors>B</colors>
+		</prop>
+		<set rarity="uncommon" num="29" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/chapters/The%20Witch.png">STP</set>
+		<tablerow>1</tablerow>
+	</card>
+	
+	<card>
+		<name>The Stranger</name>
+		<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)
+I — Cloak the top card of your library. (Put it on to the battlefield face down as a 2/2 creature with ward {2}. Turn it face up any time for its mana cost if it's a creature.)
+II — Whenever you turn a permanent face up this turn, create a token that's a copy of it.</text>
+		<prop>
+			<layout>saga</layout>
+			<side>front</side>
+			<type>Enchantment — Saga</type>
+			<maintype>Enchantment</maintype>
+			<manacost>1UU</manacost>
+			<cmc>3</cmc>
+			<colors>U</colors>
+		</prop>
+		<set rarity="uncommon" num="30" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/chapters/The%20Stranger.png">STP</set>
+		<tablerow>1</tablerow>
+	</card>
+	
+	<card>
+		<name>The Prisoner</name>
+		<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)
+I — Investigate (Create a Clue token. It's an artifact with "{2}, Sacrifice this artifact: Draw a card.")
+II — Until end of turn, creatures you control lose defender and gain "Tap an untapped artifact you control: This creature can't be blocked this turn."</text>
+		<prop>
+			<layout>saga</layout>
+			<side>front</side>
+			<type>Enchantment — Saga</type>
+			<maintype>Enchantment</maintype>
+			<manacost>1U</manacost>
+			<cmc>2</cmc>
+			<colors>U</colors>
+		</prop>
+		<set rarity="uncommon" num="31" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/chapters/The%20Prisoner.png">STP</set>
+		<related>Clue Token</related>
+		<tablerow>1</tablerow>
+	</card>
+	
+	<card>
+		<name>The Damsel</name>
+		<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)
+I — Create a Young Hero role token attached to up to one target creature you control. (Enchanted creature has "Whenever this creature attacks, if its toughness is 3 or less, put a +1/+1 counter on it.")
+II — Add {R} for each modified creature you control. (Equipments, Auras you control, and counters are modifications.)</text>
+		<prop>
+			<layout>saga</layout>
+			<side>front</side>
+			<type>Enchantment — Saga</type>
+			<maintype>Enchantment</maintype>
+			<manacost>2R</manacost>
+			<cmc>3</cmc>
+			<colors>R</colors>
+		</prop>
+		<set rarity="uncommon" num="32" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/chapters/The%20Damsel.png">STP</set>
+		<tablerow>1</tablerow>
+	</card>
+	
+	<card>
+		<name>The Eye of the Needle</name>
+		<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Target creature you control fights up to one target creature you don't control.
+II — Target creature you control deals damage equal to its power to up to one other target creature.
+III — Put two +1/+1 counters on target creature you control. It gains trample until end of turn.</text>
+		<prop>
+			<layout>saga</layout>
+			<side>front</side>
+			<type>Enchantment — Saga</type>
+			<maintype>Enchantment</maintype>
+			<manacost>1RG</manacost>
+			<cmc>3</cmc>
+			<colors>RG</colors>
+		</prop>
+		<set rarity="rare" num="33" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/chapters/The%20Eye%20of%20the%20Needle.png">STP</set>
+		<tablerow>1</tablerow>
+	</card>
+	
+	<card>
+		<name>The Apotheosis</name>
+		<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Destroy up to one target tapped creature.
+II — Each opponent sacrifices a creature.
+III — Exile target card from an opponent's graveyard. You lose X life and draw X cards, where X is the exiled card's mana value.</text>
+		<prop>
+			<layout>saga</layout>
+			<side>front</side>
+			<type>Enchantment — Saga</type>
+			<maintype>Enchantment</maintype>
+			<manacost>2WB</manacost>
+			<cmc>4</cmc>
+			<colors>WB</colors>
+		</prop>
+		<set rarity="rare" num="34" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/chapters/The%20Apotheosis.png">STP</set>
+		<tablerow>1</tablerow>
+	</card>
+	
+	<card>
+		<name>The Princess and the Dragon</name>
+		<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Create a 1/1 white Spirit creature token with flying.
+II — Exile up to one target creature until this Saga leaves the battlefield.
+III — Whenever a creature you control enters this turn, put a +1/+1 counter on that creature and another target creature you control.</text>
+		<prop>
+			<layout>saga</layout>
+			<side>front</side>
+			<type>Enchantment — Saga</type>
+			<maintype>Enchantment</maintype>
+			<manacost>1GW</manacost>
+			<cmc>3</cmc>
+			<colors>GW</colors>
+		</prop>
+		<set rarity="rare" num="35" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/chapters/The%20Princess%20and%20the%20Dragon.png">STP</set>
+		<related>Spirit Token</related>
+		<tablerow>1</tablerow>
+	</card>
+	
+	<card>
+		<name>The Moment of Clarity</name>
+		<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Each player mills three cards.
+II — Return target creature card from your graveyard to the battlefield under your control. It gains haste until end of turn. Exile it at the beginning of your next end step. When you do, remove a lore counter from this Saga.
+III — This Saga deals 10 damage to you.</text>
+		<prop>
+			<layout>saga</layout>
+			<side>front</side>
+			<type>Enchantment — Saga</type>
+			<maintype>Enchantment</maintype>
+			<manacost>2BR</manacost>
+			<cmc>4</cmc>
+			<colors>BR</colors>
+		</prop>
+		<set rarity="rare" num="36" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/chapters/The%20Moment%20of%20Clarity.png">STP</set>
+		<tablerow>1</tablerow>
+	</card>
+	
+	<card>
+		<name>The Den</name>
+		<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Put two +1/+1 counters on up to one target creature.
+II — For each +1/+1 counter on target creature, put your choice of a flying, lifelink, or trample counter on that creature.
+III — For each counter on target creature you control, you may move that counter onto another target creature you control.</text>
+		<prop>
+			<layout>saga</layout>
+			<side>front</side>
+			<type>Enchantment — Saga</type>
+			<maintype>Enchantment</maintype>
+			<manacost>2GU</manacost>
+			<cmc>4</cmc>
+			<colors>GU</colors>
+		</prop>
+		<set rarity="rare" num="37" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/chapters/The%20Den.png">STP</set>
+		<tablerow>1</tablerow>
+	</card>
+	
+	<card>
+		<name>The Thorn</name>
+		<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Put a -1/-1 counter on up to one target creature.
+II — Each player chooses a creature they control, then you and that player each create X 0/1 green Plant creature tokens, where X is the number of counters on that creature.
+III — Until end of turn, Plant creatures gain "{T}, Pay 1 life: Each opponent loses 1 life."</text>
+		<prop>
+			<layout>saga</layout>
+			<side>front</side>
+			<type>Enchantment — Saga</type>
+			<maintype>Enchantment</maintype>
+			<manacost>3BG</manacost>
+			<cmc>5</cmc>
+			<colors>BG</colors>
+		</prop>
+		<set rarity="rare" num="38" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/chapters/The%20Thorn.png">STP</set>
+		<tablerow>1</tablerow>
+	</card>
+	
+	<card>
+		<name>The Cage</name>
+		<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Investigate.
+II — Tap up to one target creature. Put a stun counter on it.
+III — Whenever you draw a card this turn, this Saga deals 4 damage to up to one target tapped creature.</text>
+		<prop>
+			<layout>saga</layout>
+			<side>front</side>
+			<type>Enchantment — Saga</type>
+			<maintype>Enchantment</maintype>
+			<manacost>2WU</manacost>
+			<cmc>4</cmc>
+			<colors>WU</colors>
+		</prop>
+		<set rarity="rare" num="39" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/chapters/The%20Cage.png">STP</set>
+		<related>Clue Token</related>
+		<tablerow>1</tablerow>
+	</card>
+	
+	<card>
+		<name>Your Happily Ever After</name>
+		<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Create a Young Hero Role token attached to up to one target creature you control.
+II — Create a Royal Role token attached to up to one target creature you control.
+III — Until end of turn, noncreature tokens you control gain "{T}, Sacrifice this token: Add {R}{R}."</text>
+		<prop>
+			<layout>saga</layout>
+			<side>front</side>
+			<type>Enchantment — Saga</type>
+			<maintype>Enchantment</maintype>
+			<manacost>3RW</manacost>
+			<cmc>5</cmc>
+			<colors>RW</colors>
+		</prop>
+		<set rarity="rare" num="40" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/chapters/Your%20Happily%20Ever%20After.png">STP</set>
+		<tablerow>1</tablerow>
+	</card>
+	
+	<card>
+		<name>The Fury</name>
+		<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — This Saga gains "Creatures your opponents control get -1/-1."
+II — This Saga deals 2 damage to any target.
+III — You may cast target creature card from a graveyard this turn, and mana of any type can be spent to cast it. When you cast that spell, it gains devour 1.</text>
+		<prop>
+			<layout>saga</layout>
+			<side>front</side>
+			<type>Enchantment — Saga</type>
+			<maintype>Enchantment</maintype>
+			<manacost>2BRG</manacost>
+			<cmc>5</cmc>
+			<colors>BRG</colors>
+		</prop>
+		<set rarity="rare" num="41" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/chapters/The%20Fury.png">STP</set>
+		<tablerow>1</tablerow>
+	</card>
+	
+	<card>
+		<name>The Wraith</name>
+		<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Each player discards a card.
+II — Destroy up to one target tapped creature.
+III — Gain control of target creature. If that creature shares a name with a card in a graveyard, draw three cards.</text>
+		<prop>
+			<layout>saga</layout>
+			<side>front</side>
+			<type>Enchantment — Saga</type>
+			<maintype>Enchantment</maintype>
+			<manacost>2WUB</manacost>
+			<cmc>5</cmc>
+			<colors>WUB</colors>
+		</prop>
+		<set rarity="rare" num="42" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/chapters/The%20Wraith.png">STP</set>
+		<tablerow>1</tablerow>
+	</card>
+	
+	<card>
+		<name>The Wild</name>
+		<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+II — Exile target creature you control. Put X +1/+1 counters on another target creature you control, where X is the exiled creature's power.
+III — Whenever a creature with power 5 or greater attacks this turn, untap target land you control.</text>
+		<prop>
+			<layout>saga</layout>
+			<side>front</side>
+			<type>Enchantment — Saga</type>
+			<maintype>Enchantment</maintype>
+			<manacost>2RGW</manacost>
+			<cmc>5</cmc>
+			<colors>RGW</colors>
+		</prop>
+		<set rarity="rare" num="43" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/chapters/The%20Wild.png">STP</set>
+		<tablerow>1</tablerow>
+	</card>
+	
+	<card>
+		<name>The Grey</name>
+		<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Create a 1/1 white Noble creature token.
+II — This Saga gains your choice of "Tokens you control are blue," or "Tokens you control are red."
+III — Each opponent mills a card for each blue permanent you control. Each red permanent you control deals 1 damage to any target.</text>
+		<prop>
+			<layout>saga</layout>
+			<side>front</side>
+			<type>Enchantment — Saga</type>
+			<maintype>Enchantment</maintype>
+			<manacost>1URW</manacost>
+			<cmc>4</cmc>
+			<colors>URW</colors>
+		</prop>
+		<set rarity="rare" num="44" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/chapters/The%20Grey.png">STP</set>
+		<related>Noble Token</related>
+		<tablerow>1</tablerow>
+	</card>
+	
+	<card>
+		<name>I Didn't Hear No Bell</name>
+		<text>Target creature you control gets +2/+0 and gains double strike until end of turn. Sacrifice it at the beginning of the next end step.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Instant</type>
+			<maintype>Instant</maintype>
+			<manacost>2R</manacost>
+			<cmc>3</cmc>
+			<colors>R</colors>
+		</prop>
+		<set rarity="common" num="45" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/memories/I%20Didn%E2%80%99t%20Hear%20No%20Bell.png">STP</set>
+		<tablerow>3</tablerow>
+	</card>
+	
+	<card>
+		<name>Godkiller</name>
+		<text>Destroy target creature with power 4 or greater. You gain life equal to its toughness.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Instant</type>
+			<maintype>Instant</maintype>
+			<manacost>2W</manacost>
+			<cmc>3</cmc>
+			<colors>W</colors>
+		</prop>
+		<set rarity="common" num="46" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/memories/Godkiller.png">STP</set>
+		<tablerow>3</tablerow>
+	</card>
+	
+	<card>
+		<name>Exorcist</name>
+		<text>Choose one —
+• Destroy target creature with flying.
+• Put a +1/+1 counter on each creature you control with a +1/+1 counter on it.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Instant</type>
+			<maintype>Instant</maintype>
+			<manacost>2G</manacost>
+			<cmc>3</cmc>
+			<colors>G</colors>
+		</prop>
+		<set rarity="common" num="47" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/memories/Exorcist.png">STP</set>
+		<tablerow>3</tablerow>
+	</card>
+	
+	<card>
+		<name>Terminal Velocity</name>
+		<text>Exile target creature.
+Each player mills two cards.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Instant</type>
+			<maintype>Instant</maintype>
+			<manacost>4B</manacost>
+			<cmc>5</cmc>
+			<colors>B</colors>
+		</prop>
+		<set rarity="common" num="48" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/memories/Terminal%20Velocity.png">STP</set>
+		<tablerow>3</tablerow>
+	</card>
+	
+	<card>
+		<name>Water and Steel</name>
+		<text>Target attacking creature gets +2/+2 and gains trample until end of turn. If it's an artifact or is equipped, it gains double strike until end of turn.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Instant</type>
+			<maintype>Instant</maintype>
+			<manacost>1R</manacost>
+			<cmc>2</cmc>
+			<colors>R</colors>
+		</prop>
+		<set rarity="common" num="49" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/memories/Water%20and%20Steel.png">STP</set>
+		<tablerow>3</tablerow>
+	</card>
+	
+	<card>
+		<name>Dissolving Will</name>
+		<text>Distribute X +1/+1 counters among any number of target creatures you control, where X is the number of creatures attacking you. Prevent all combat damage that would be dealt this turn.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Instant</type>
+			<maintype>Instant</maintype>
+			<manacost>1GG</manacost>
+			<cmc>3</cmc>
+			<colors>G</colors>
+		</prop>
+		<set rarity="common" num="50" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/memories/Dissolving%20Will.png">STP</set>
+		<tablerow>3</tablerow>
+	</card>
+	
+	<card>
+		<name>Knives Out and Masks Off</name>
+		<text>All creatures gain deathtouch until your next turn.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Sorcery</type>
+			<maintype>Sorcery</maintype>
+			<manacost>2B</manacost>
+			<cmc>3</cmc>
+			<colors>B</colors>
+		</prop>
+		<set rarity="common" num="51" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/memories/Knives%20Out%20and%20Masks%20Off.png">STP</set>
+		<tablerow>3</tablerow>
+	</card>
+	
+	<card>
+		<name>Illusion of Choice</name>
+		<text>This spell can't be copied.
+Choose one —
+• Copy target instant or sorcery spell you control. You may choose new targets for the copy.
+• Create a token that's a copy of target creature you control.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Instant</type>
+			<maintype>Instant</maintype>
+			<manacost>3U</manacost>
+			<cmc>4</cmc>
+			<colors>U</colors>
+		</prop>
+		<set rarity="common" num="52" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/memories/Illusion%20of%20Choice.png">STP</set>
+		<tablerow>3</tablerow>
+	</card>
+	
+	<card>
+		<name>Prison of the Mind</name>
+		<text>Investigate. (Create a Clue token. It's an artifact with "{2}, Sacrifice this artifact: Draw a card.")
+Whenever you draw a card this turn, tap target creature and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove a stun counter from it instead.)</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Sorcery</type>
+			<maintype>Sorcery</maintype>
+			<manacost>1U</manacost>
+			<cmc>2</cmc>
+			<colors>U</colors>
+		</prop>
+		<set rarity="common" num="53" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/memories/Prison%20of%20the%20Mind.png">STP</set>
+		<related>Clue Token</related>
+		<tablerow>3</tablerow>
+	</card>
+	
+	<card>
+		<name>Romantic Haze</name>
+		<text>Chose target creature you control and target creature an opponent controls. As long as you control the first creature, the second creature can't attack or block, and its activated abilities can't be activated.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Sorcery</type>
+			<maintype>Sorcery</maintype>
+			<manacost>1W</manacost>
+			<cmc>2</cmc>
+			<colors>W</colors>
+		</prop>
+		<set rarity="common" num="54" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/memories/Romantic%20Haze.png">STP</set>
+		<tablerow>3</tablerow>
+	</card>
+	
+	<card>
+		<name>Wide Open Field</name>
+		<text>Draw cards equal to target creature's power, then discard three cards. Goad that creature. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Instant</type>
+			<maintype>Instant</maintype>
+			<manacost>2UU</manacost>
+			<cmc>4</cmc>
+			<colors>U</colors>
+		</prop>
+		<set rarity="uncommon" num="55" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/memories/Wide%20Open%20Field.png">STP</set>
+		<tablerow>3</tablerow>
+	</card>
+	
+	<card>
+		<name>Grace</name>
+		<text>Target creature gets +2/+2 and gains flying and indestructible until end of turn. Untap it.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Instant</type>
+			<maintype>Instant</maintype>
+			<manacost>2W</manacost>
+			<cmc>3</cmc>
+			<colors>W</colors>
+		</prop>
+		<set rarity="uncommon" num="56" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/memories/Grace.png">STP</set>
+		<tablerow>3</tablerow>
+	</card>
+	
+	<card>
+		<name>What Once Was One</name>
+		<text>Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Create a 1/1 white Noble Creature token and a 1/1 black Bird creature token.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Sorcery</type>
+			<maintype>Sorcery</maintype>
+			<manacost>1GG</manacost>
+			<cmc>3</cmc>
+			<colors>G</colors>
+		</prop>
+		<set rarity="uncommon" num="57" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/memories/What%20Once%20Was%20One.png">STP</set>
+		<related>Noble Token</related>
+		<related>Bird Token            </related>
+		<tablerow>3</tablerow>
+	</card>
+	
+	<card>
+		<name>A Witness</name>
+		<text>Destroy target creature. Its controller creates a 1/1 blue Bird Coward creature token.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Sorcery</type>
+			<maintype>Sorcery</maintype>
+			<manacost>2U</manacost>
+			<cmc>3</cmc>
+			<colors>U</colors>
+		</prop>
+		<set rarity="uncommon" num="58" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/memories/A%20Witness.png">STP</set>
+		<related>Bird Coward Token</related>
+		<tablerow>3</tablerow>
+	</card>
+	
+	<card>
+		<name>Hunger Pangs</name>
+		<text>As an additional cost to cast this spell, exile X cards from your graveyard.
+Creatures your opponents control get -X/-X until end of turn.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Sorcery</type>
+			<maintype>Sorcery</maintype>
+			<manacost>2BB</manacost>
+			<cmc>4</cmc>
+			<colors>B</colors>
+		</prop>
+		<set rarity="uncommon" num="59" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/memories/Hunger%20Pangs.png">STP</set>
+		<tablerow>3</tablerow>
+	</card>
+	
+	<card>
+		<name>True Love's Kiss</name>
+		<text>Two target creatures you control get +2/+0 and gain haste until end of turn. Creatures can't block this turn.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Sorcery</type>
+			<maintype>Sorcery</maintype>
+			<manacost>3R</manacost>
+			<cmc>4</cmc>
+			<colors>R</colors>
+		</prop>
+		<set rarity="uncommon" num="60" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/memories/True%20Love%E2%80%99s%20Kiss.png">STP</set>
+		<tablerow>3</tablerow>
+	</card>
+	
+	<card>
+		<name>Riddle of Steel</name>
+		<text>Buyback—Sacrifice a creature. (You may sacrifice a creature in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)
+You draw two cards and you lose 2 life.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Sorcery</type>
+			<maintype>Sorcery</maintype>
+			<manacost>1BB</manacost>
+			<cmc>3</cmc>
+			<colors>B</colors>
+		</prop>
+		<set rarity="uncommon" num="61" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/memories/Riddle%20of%20Steel.png">STP</set>
+		<tablerow>3</tablerow>
+	</card>
+	
+	<card>
+		<name>I Meant It</name>
+		<text>You may tap an untapped creature you control, then target opponent may tap an untapped creature they control. If two creatures become tapped this way, they gain indestructible until end of turn.
+Destroy all nonland permanents.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Sorcery</type>
+			<maintype>Sorcery</maintype>
+			<manacost>4WWW</manacost>
+			<cmc>7</cmc>
+			<colors>W</colors>
+		</prop>
+		<set rarity="uncommon" num="62" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/memories/I%20Meant%20It.png">STP</set>
+		<tablerow>3</tablerow>
+	</card>
+	
+	<card>
+		<name>Hint of Feeling</name>
+		<text>Destroy target creature. Create a number of Blood tokens equal to its toughness.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Sorcery</type>
+			<maintype>Sorcery</maintype>
+			<manacost>3BR</manacost>
+			<cmc>5</cmc>
+			<colors>BR</colors>
+		</prop>
+		<set rarity="rare" num="63" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/memories/Hint%20of%20Feeling.png">STP</set>
+		<related count="x">Blood Token</related>
+		<tablerow>3</tablerow>
+	</card>
+	
+	<card>
+		<name>Passenger</name>
+		<text>Multikicker {B}
+Put a -1/-1 counter on target creature for each time this spell was kicked, then gain control of that creature if its power is 2 or less.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Sorcery</type>
+			<maintype>Sorcery</maintype>
+			<manacost>1UU</manacost>
+			<cmc>3</cmc>
+			<colors>U</colors>
+		</prop>
+		<set rarity="rare" num="64" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/memories/Passenger.png">STP</set>
+		<tablerow>3</tablerow>
+	</card>
+	
+	<card>
+		<name>Glimpse of Something Bigger</name>
+		<text>Search your library for a creature card, an enchantment card, and a land card. Reveal those cards, put them into your hand, then shuffle.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Sorcery</type>
+			<maintype>Sorcery</maintype>
+			<manacost>4GW</manacost>
+			<cmc>6</cmc>
+			<colors>GW</colors>
+		</prop>
+		<set rarity="rare" num="65" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/memories/Glimpse%20of%20Something%20Bigger.png">STP</set>
+		<tablerow>3</tablerow>
+	</card>
+	
+	<card>
+		<name>Drown // Dessicate</name>
+		<text>Chose target creature. Its controller mills cards equal to its mana value, then puts it on top of their library.
+
+---
+
+This spell deals 4 damage to target creature. Excess damage is dealt to that creature's controller instead.</text>
+		<prop>
+			<layout>split</layout>
+			<side>front</side>
+			<type>Sorcery // Sorcery</type>
+			<maintype>Sorcery</maintype>
+			<manacost>2U // 2R</manacost>
+			<cmc>6</cmc>
+			<colors>UR</colors>
+		</prop>
+		<set rarity="rare" num="66" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/memories/Drown%20__%20Dessicate_rotated.png">STP</set>
+		<tablerow>3</tablerow>
+	</card>
+	
+	
+	
+	<card>
+		<name>Voice of the Stubborn</name>
+		<text>Enchant player
+Creatures enchanted player controls must attack each combat if able and must be blocked if able.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Enchantment — Aura</type>
+			<maintype>Enchantment</maintype>
+			<manacost>3G</manacost>
+			<cmc>4</cmc>
+			<colors>G</colors>
+		</prop>
+		<set rarity="uncommon" num="67" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/voices/Voice%20of%20the%20Stubborn.png">STP</set>
+		<tablerow>1</tablerow>
+	</card>
+	
+	<card>
+		<name>Voice of the Broken</name>
+		<text>Enchant player
+If a creature enchanted player controls would deal combat damage, prevent all but 1 of that damage. That player gains life equal to the damage prevented this way.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Enchantment — Aura</type>
+			<maintype>Enchantment</maintype>
+			<manacost>2W</manacost>
+			<cmc>3</cmc>
+			<colors>W</colors>
+		</prop>
+		<set rarity="uncommon" num="68" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/voices/Voice%20of%20the%20Broken.png">STP</set>
+		<tablerow>1</tablerow>
+	</card>
+	
+	<card>
+		<name>Voice of the Cold</name>
+		<text>Enchant player
+Whenever a nontoken creature enchanted player controls dies, exile it. That player creates a 1/1 white Spirit creature token with flying.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Enchantment — Aura</type>
+			<maintype>Enchantment</maintype>
+			<manacost>1W</manacost>
+			<cmc>2</cmc>
+			<colors>W</colors>
+		</prop>
+		<set rarity="uncommon" num="69" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/voices/Voice%20of%20the%20Cold.png">STP</set>
+		<related>Spirit Token</related>
+		<tablerow>1</tablerow>
+	</card>
+	
+	<card>
+		<name>Voice of the Paranoid</name>
+		<text>Enchant player
+Whenever enchanted player loses life, they mill a card.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Enchantment — Aura</type>
+			<maintype>Enchantment</maintype>
+			<manacost>B</manacost>
+			<cmc>1</cmc>
+			<colors>B</colors>
+		</prop>
+		<set rarity="uncommon" num="70" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/voices/Voice%20of%20the%20Paranoid.png">STP</set>
+		<related>Spirit Token</related>
+		<tablerow>1</tablerow>
+	</card>
+	
+	<card>
+		<name>Voice of the Cheated</name>
+		<text>Enchant player
+If enchanted player would draw a card, they exile the top two cards of their library instead. They may play those cards this turn.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Enchantment — Aura</type>
+			<maintype>Enchantment</maintype>
+			<manacost>1RR</manacost>
+			<cmc>4</cmc>
+			<colors>R</colors>
+		</prop>
+		<set rarity="uncommon" num="71" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/voices/Voice%20of%20the%20Cheated.png">STP</set>
+		<tablerow>1</tablerow>
+	</card>
+	
+	<card>
+		<name>Voice of the Hunted</name>
+		<text>Enchant player
+Whenever enchanted player is dealt combat damage, that player and attacking player may each put a land card from their hand onto the battlefield. This ability triggers only once each turn.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Enchantment — Aura</type>
+			<maintype>Enchantment</maintype>
+			<manacost>1G</manacost>
+			<cmc>2</cmc>
+			<colors>G</colors>
+		</prop>
+		<set rarity="uncommon" num="72" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/voices/Voice%20of%20the%20Hunted.png">STP</set>
+		<tablerow>1</tablerow>
+	</card>
+	
+	<card>
+		<name>Voice of the Opportunist</name>
+		<text>Enchant player
+At the beginning of enchanted player's upkeep, that player draws a card and loses 3 life.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Enchantment — Aura</type>
+			<maintype>Enchantment</maintype>
+			<manacost>1B</manacost>
+			<cmc>2</cmc>
+			<colors>B</colors>
+		</prop>
+		<set rarity="uncommon" num="73" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/voices/Voice%20of%20the%20Opportunist.png">STP</set>
+		<tablerow>1</tablerow>
+	</card>
+	
+	<card>
+		<name>Voice of the Contrarian</name>
+		<text>Enchant player
+At the beginning of enchanted player's upkeep, they return a nonland permanent they control to its owner's hand.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Enchantment — Aura</type>
+			<maintype>Enchantment</maintype>
+			<manacost>2UU</manacost>
+			<cmc>4</cmc>
+			<colors>U</colors>
+		</prop>
+		<set rarity="uncommon" num="74" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/voices/Voice%20of%20the%20Contrarian.png">STP</set>
+		<tablerow>1</tablerow>
+	</card>
+	
+	<card>
+		<name>Voice of the Skeptic</name>
+		<text>Enchant player
+If a spell or an ability of a nonartifact permanent would cause enchanted player to draw a card, they investigate instead. (They create a Clue token. It's an artifact with "{2}, Sacrifice this artifact: Draw a card.")</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Enchantment — Aura</type>
+			<maintype>Enchantment</maintype>
+			<manacost>2U</manacost>
+			<cmc>3</cmc>
+			<colors>U</colors>
+		</prop>
+		<set rarity="uncommon" num="75" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/voices/Voice%20of%20the%20Skeptic.png">STP</set>
+		<related>Clue Token</related>
+		<tablerow>1</tablerow>
+	</card>
+	
+	<card>
+		<name>Voice of the Smitten</name>
+		<text>Enchant player
+At he beginning of enchanted player's end step, each untapped creature they control deals 1 damage to target permanent they control.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Enchantment — Aura</type>
+			<maintype>Enchantment</maintype>
+			<manacost>2RR</manacost>
+			<cmc>4</cmc>
+			<colors>R</colors>
+		</prop>
+		<set rarity="uncommon" num="76" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/voices/Voice%20of%20the%20Smitten.png">STP</set>
+		<tablerow>1</tablerow>
+	</card>
+	
+	<card>
+		<name>Voice of the Hero</name>
+		<text>Enchant player
+At the beginning of combat on your turn, create an X/X red Noble creature token with haste, where X is the number of Auras attached to enchanted player. Exile that token at the beginning of the next end step.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Enchantment — Aura</type>
+			<maintype>Enchantment</maintype>
+			<manacost>1RW</manacost>
+			<cmc>3</cmc>
+			<colors>RW</colors>
+		</prop>
+		<set rarity="rare" num="77" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/voices/Voice%20of%20the%20Hero.png">STP</set>
+		<related>Noble Token </related>
+		<tablerow>1</tablerow>
+	</card>
+	
+	<card>
+		<name>The Narrator</name>
+		<text>If a player would win or lose the game, instead that player shuffles their hand, graveyard, and all nonland permanents they own into their library, then draws seven cards. That player's life total becomes 20. Exile this enchantment.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Enchantment</type>
+			<maintype>Enchantment</maintype>
+			<manacost>2WU</manacost>
+			<cmc>4</cmc>
+			<colors>WU</colors>
+		</prop>
+		<set rarity="rare" num="78" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/voices/The%20Narrator.png">STP</set>
+		<tablerow>1</tablerow>
+	</card>
+	
+	
+	
+	<card>
+		<name>Pristine Blade</name>
+		<text>Whenever equipped creature attacks, you may exert it. When you do, creatures defending player controls lose hexproof, indestructible, and protection until end of turn, then target creature that player controls must block this turn if able.
+Equip {2}</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Artifact — Equipment</type>
+			<maintype>Artifact</maintype>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<colors>C</colors>
+		</prop>
+		<set rarity="rare" num="79" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/other/Pristine%20Blade.png">STP</set>
+		<tablerow>1</tablerow>
+	</card>
+	
+	<card>
+		<name>The Princess, World-Ender</name>
+		<text>When The Princess, World-Ender dies, search your library for a Noble creature card, reveal it, put it into your hand, then shuffle.</text>
+		<prop>
+			<layout>normal</layout>
+			<side>front</side>
+			<type>Legendary Creature — Human Noble</type>
+			<maintype>Creature</maintype>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<colors></colors>
+		</prop>
+		<set rarity="rare" num="80" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/princesses/The%20Princess%2C%20World-Ender.png">STP</set>
+		<tablerow>1</tablerow>
+	</card>
+	
+	
+	
+	<card>
+		<name>The Princess's Body</name>
+		<text>Deathtouch</text>
+		<prop>
+			<colors>B</colors>
+			<type>Token Legendary Creature — Noble</type>
+			<maintype>Creature</maintype>
+			<cmc>0</cmc>
+			<pt>3/3</pt>
+		</prop>
+		<set rarity="common" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/tokens/The%20Princess%E2%80%99s%20Body.png">STP</set>
+		<token>1</token>
+		<tablerow>2</tablerow>
+	</card>
+	
+	<card>
+		<name>Noble Token</name>
+		<text></text>
+		<prop>
+			<colors>W</colors>
+			<type>Token Creature — Noble</type>
+			<maintype>Creature</maintype>
+			<cmc>0</cmc>
+			<pt>1/1</pt>
+		</prop>
+		<set rarity="common" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/tokens/Noble_w.png">STP</set>
+		<token>1</token>
+		<tablerow>2</tablerow>
+	</card>
+	
+	<card>
+		<name>Bird Token            </name>
+		<text></text>
+		<prop>
+			<colors>B</colors>
+			<type>Token Creature — Bird</type>
+			<maintype>Creature</maintype>
+			<cmc>0</cmc>
+			<pt>1/1</pt>
+		</prop>
+		<set rarity="common" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/tokens/Bird.png">STP</set>
+		<token>1</token>
+		<tablerow>2</tablerow>
+	</card>
+	
+	<card>
+		<name>Bird Coward Token</name>
+		<text></text>
+		<prop>
+			<colors>U</colors>
+			<type>Token Creature — Bird Coward</type>
+			<maintype>Creature</maintype>
+			<cmc>0</cmc>
+			<pt>1/1</pt>
+		</prop>
+		<set rarity="common" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/tokens/Bird%20Coward.png">STP</set>
+		<token>1</token>
+		<tablerow>2</tablerow>
+	</card>
+	
+	<card>
+		<name>Noble Token </name>
+		<text>Haste</text>
+		<prop>
+			<colors>R</colors>
+			<type>Token Creature — Noble</type>
+			<maintype>Creature</maintype>
+			<cmc>0</cmc>
+			<pt>*/*</pt>
+		</prop>
+		<set rarity="common" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/tokens/Noble_r.png">STP</set>
+		<token>1</token>
+		<tablerow>2</tablerow>
+	</card>
+  </cards>
+</cockatrice_carddatabase>
