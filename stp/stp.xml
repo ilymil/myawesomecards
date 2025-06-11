@@ -1441,7 +1441,7 @@ At the beginning of combat on your turn, create an X/X red Noble creature token 
 	
 	<card>
 		<name>Pristine Blade</name>
-		<text>Whenever equipped creature attacks, you may exert it. When you do, creatures defending player controls lose hexproof, indestructible, and protection until end of turn, then target creature that player controls must block this turn if able.
+		<text>You may exert equipped creature as it attacks. When you do, creatures defending player controls lose hexproof, indestructible, and protection until end of turn, then choose a creature that player controls. It must block this turn if able.
 Equip {2}</text>
 		<prop>
 			<layout>normal</layout>
