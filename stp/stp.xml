@@ -737,6 +737,7 @@ III — Until end of turn, Plant creatures gain "{T}, Pay 1 life: Each opponent 
 			<colors>BG</colors>
 		</prop>
 		<set rarity="rare" num="38" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/chapters/The%20Thorn.png">STP</set>
+		<related count="x">Plant Token</related>
 		<tablerow>1</tablerow>
 	</card>
 	
