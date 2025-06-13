@@ -556,7 +556,7 @@ II — Whenever a creature is dealth excess damage this turn, draw a card.</text
 		<name>The Witch</name>
 		<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)
 I — Put a -1/-1 counter on up to one target creature.
-II — When you next lose life this turn, each opponent loses that much life.</text>
+II — The next time you would lose life this turn, each opponent loses that much life.</text>
 		<prop>
 			<layout>saga</layout>
 			<side>front</side>
@@ -1109,7 +1109,7 @@ Creatures your opponents control get -X/-X until end of turn.</text>
 	</card>
 	
 	<card>
-		<name>True Love's Kiss</name>
+		<name>Kiss the Girl</name>
 		<text>Two target creatures you control get +2/+0 and gain haste until end of turn. Creatures can't block this turn.</text>
 		<prop>
 			<layout>normal</layout>
