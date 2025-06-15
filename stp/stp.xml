@@ -611,7 +611,7 @@ II — Until end of turn, creatures you control lose defender and gain "Tap an u
 		<name>The Damsel</name>
 		<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)
 I — Create a Young Hero role token attached to up to one target creature you control. (Enchanted creature has "Whenever this creature attacks, if its toughness is 3 or less, put a +1/+1 counter on it.")
-II — Add {R} for each modified creature you control. (Equipments, Auras you control, and counters are modifications.)</text>
+II — Add {R} for each modified creature you control. (Equipment, Auras you control, and counters are modifications.)</text>
 		<prop>
 			<layout>saga</layout>
 			<side>front</side>
