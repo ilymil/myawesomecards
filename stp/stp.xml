@@ -1121,7 +1121,7 @@ Creatures your opponents control get -X/-X until end of turn.</text>
 			<cmc>4</cmc>
 			<colors>R</colors>
 		</prop>
-		<set rarity="uncommon" num="60" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/memories/True%20Love%E2%80%99s%20Kiss.png">STP</set>
+		<set rarity="uncommon" num="60" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/memories/Kiss%20the%20Girl.png">STP</set>
 		<tablerow>3</tablerow>
 	</card>
 	
@@ -1210,7 +1210,7 @@ Put a -1/-1 counter on target creature for each time this spell was kicked, then
 	</card>
 	
 	<card>
-		<name>Drown // Dessicate</name>
+		<name>Drown // Desiccate</name>
 		<text>Chose target creature. Its controller mills cards equal to its mana value, then puts it on top of their library.
 
 ---
@@ -1225,7 +1225,7 @@ This spell deals 4 damage to target creature. Excess damage is dealt to that cre
 			<cmc>6</cmc>
 			<colors>UR</colors>
 		</prop>
-		<set rarity="rare" num="66" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/memories/Drown%20__%20Dessicate_rotated.png">STP</set>
+		<set rarity="rare" num="66" picurl="https://raw.githubusercontent.com/ilymil/myawesomecards/refs/heads/main/stp/cards/memories/Drown%20__%20Desiccate_rotated.png">STP</set>
 		<tablerow>3</tablerow>
 	</card>
 	
